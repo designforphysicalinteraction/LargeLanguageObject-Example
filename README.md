@@ -1,6 +1,6 @@
-# Project 2: Large Language Object - 2024 Edition
+# Project Example: Large Language Object
 
-This is a simple template that combines OpenAI's Node.js SDK, a P5.js sketch, a serial connection to an Arduino, and Vite for code autorefresh.
+This is a simple template that combines OpenAI's Node.js SDK, a P5.js sketch, a serial connection to an Arduino, and Vite for code autorefresh. It was developed by Marcelo Coelho for the Course: Design for Physical Interaction taught at Cornell University.
 
 ### What it does:
 
